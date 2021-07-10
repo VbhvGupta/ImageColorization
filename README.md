@@ -3,8 +3,7 @@
 ** Team provision -
 [Vaibhav Gupta](https://github.com/whynotkush) ,
 [Navaneet Singh]() , 
-[Suman Mitra]() ,
-[Rohit Jamuar]()  . CV project [IIITH 2021](https://www.iiit.ac.in/).
+[Suman Mitra]()  . CV project [IIITH 2021](https://www.iiit.ac.in/).
 
 ![Einstein](https://github.com/Computer-Vision-IIITH-2021/project-provision/blob/main/colorisation.png)
 
